@@ -1,0 +1,9 @@
+p{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+h4{
+    margin: 0;
+}
